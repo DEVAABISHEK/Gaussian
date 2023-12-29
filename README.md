@@ -9,12 +9,19 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 
 ## Algorithm
 1. Import the numpy module to use the built -in functions for calculation.
+
 2.Import the sys module to use the built-in functions.
+
 3.Get input from the user for number of rows and add it by 1 for number of coloumns.
+
 4.Using np.zeros() set the matrix as null matrix
+
 5.Using nested for loop get input from the user for each element in the matrix
+
 6.Using nested for loop find the ratio and perform the elementary row operations and find matrix
+
 7.Use back substitution method to find the value of the variables and print it.
+
 8.End the program.
 ## Program:
 ```
@@ -50,7 +57,8 @@ for i in range(n):
 ```
 
 ## Output:
-![image](https://github.com/DEVAABISHEK/Gaussian/assets/150319305/d81ad03e-81ad-4ace-b3a3-9fd57ddd1850)
+![image](https://github.com/DEVAABISHEK/Gaussian/assets/150319305/136fc28a-09f8-4992-a6a7-19941d1c073c)
+
 
 ## Result:
 Thus the program to find the solution of a matrix using Gaussian Elimination is written and verified using python programming.
